@@ -16,7 +16,7 @@ CryptoWatcher est un logiciel Windows qui permet de suivre **en temps réel** le
 
 ## 🖼 Aperçu
 
-![Capture]([https://lien-de-ton-image.jpg](https://static.wixstatic.com/media/e20f1f_3d72272ff0aa4a88baee648a5df10818~mv2.jpg/v1/fill/w_956,h_956,q_90,enc_avif,quality_auto/e20f1f_3d72272ff0aa4a88baee648a5df10818~mv2.jpg))
+![Capture CryptoWatcher](https://static.wixstatic.com/media/e20f1f_3d72272ff0aa4a88baee648a5df10818~mv2.jpg)
 
 ---
 
